@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Nov 15 14:51:29 2016
 
-@author: snehalpatil
 """
 
 import re 
